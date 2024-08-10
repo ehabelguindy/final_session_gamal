@@ -17,5 +17,5 @@ spec:
         app: projapp
     spec:
       containers:
-      - image: gamalm2041/seniorapp:v1
+      - image: bitnami/nginx:1.26
         name: seniorapp
